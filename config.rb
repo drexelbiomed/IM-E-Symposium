@@ -1,6 +1,19 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+###
+## Asset settings
+###
+
+# Sprockets asset compilation
+activate :sprockets do |c|
+  c.expose_middleman_helpers = true
+end
+
+set :css_dir, 'stylesheets'
+set :js_dir, 'javascripts'
+set :images_dir, 'images'
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
