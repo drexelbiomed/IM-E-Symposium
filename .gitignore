@@ -5,3 +5,5 @@
 build/
 
 source/stylesheets/bootstrap/
+source/javascripts/bootstrap/
+source/stylesheets/font-awesome/
