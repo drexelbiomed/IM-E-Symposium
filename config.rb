@@ -53,7 +53,11 @@ page '/*.txt', layout: false
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
-# configure :build do
-#   activate :minify_css
-#   activate :minify_javascript
-# end
+configure :build do
+  ignore '*.psd'
+  ignore 'fonts/**'
+  activate :minify_css
+  activate :minify_javascript
+
+  set :http_prefix, "/immunesymposium"
+end
