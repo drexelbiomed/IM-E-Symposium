@@ -2,27 +2,43 @@
 //= require popper
 //= require bootstrap-sprockets
 
-var slideUpSlow = {
-    distance: '150%',
+var initialAnim = 1000
+
+var headline = {
+    distance: '20%',
     origin: 'bottom',
     opacity: 0,
-    duration: 1500,
+    duration: initialAnim,
     easing: 'ease-out'
 };
 
 var marketingBoxes = {
-  delay: 1500, 
-  interval: 200, 
-  distance:'100%',
-  origin: 'bottom',
+  delay: initialAnim, 
+  interval: 250, 
   opacity: 0,
   duration: 500,
   easing: 'ease-in'
 };
 
-ScrollReveal().reveal('.headline', slideUpSlow);
+var venue = {
+  delay: initialAnim, 
+  opacity: 0,
+  duration: 500,
+  easing: 'ease-in'
+}
+
+var speaker = {
+  interval: 250,
+  opacity: 0,
+  duration: 350,
+  easing: 'ease-in'
+}
+
+ScrollReveal().reveal('.headline', headline);
 // ScrollReveal().reveal('.headline', { duration: 2000 });
-ScrollReveal().reveal('.col-sm', marketingBoxes);
+ScrollReveal().reveal('.marketing-box', marketingBoxes);
+ScrollReveal().reveal('.venue', venue);
+ScrollReveal().reveal('.speaker', speaker);
 
 // var node = document.querySelector('#cake');
 // var nodeList = document.querySelectorAll('.cookies');
