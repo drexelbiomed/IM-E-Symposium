@@ -20,7 +20,7 @@ body {
       >img {
         @include media-breakpoint-up(xs) {
           width: auto;
-          height: 650px;
+          height: 700px;
         }
         @include media-breakpoint-up(md) {
           width: auto;
@@ -36,6 +36,12 @@ body {
       }
     }
   }
+}
+
+@include media-breakpoint-up(xs) {
+  iframe {
+    width: 100%;
+  }         
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
