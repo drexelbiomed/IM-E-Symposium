@@ -11,6 +11,9 @@ body {
     "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu",
     "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
   text-align: center;
+  table {
+    text-align: left;
+  }
 }
 
 #carousel {
@@ -59,6 +62,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   .row {
     .speaker {
       margin-top: 2em;
+      .collapse, .collapsing {
+        text-align: left;
+        font-size: 14px;
+        margin-top: 18px;
+      }
     }
     h2.h2 {
       color: #f2f2f2;
