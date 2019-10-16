@@ -118,3 +118,28 @@ footer {
     }
   }
 }
+.abstracts {
+  padding-top: 2em;
+  max-width: 490px;
+  margin: 0 auto;
+
+  h1, h2, h3, h4, h5, h6, p, div {
+    text-align: left;
+  }
+
+  .backlink {
+    padding: 0 .5em;
+  }
+
+  h2 {
+    font-size: 16px;
+  }
+  p.abstract {
+    padding: 0 1em;
+    font-size: 14px;
+    text-indent: 1em;
+  }
+}
+.btn-link, .btn-link:hover  {
+  color: #333 !important; 
+}

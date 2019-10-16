@@ -1,0 +1,34 @@
+---
+title: Abstracts – Immune Modulation and Engineering Symposium 2019 | Drexel University
+---
+
+
+<div class="abstracts">
+  <div class="blacklink">
+    <h1>Abstracts</h1>
+    <p>
+      <a href="./">&larr; Back to Immune Symposium Home</a>
+    </p>
+  </div>
+  <div class="accordion" id="accordionExample">
+    <% data.abstracts.each_with_index do |a,i| %>  
+      <div class="card">
+        <div class="card-header" id="heading<%= i %>">
+          <h2 class="mb-0">
+            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse<%= i %>" aria-expanded="false" aria-controls="collapse<%= i %>">
+              <span class="float-right"><i class="fas fa-chevron-down"></i></span>
+              <h2><%= i+1 %>. <%= a.title %> </h2>
+              <p><em><%= a.author %> | <span class="email"><%= mail_to a.email %></span></em></p>
+            </button>
+          </h2>
+        </div>
+
+        <div id="collapse<%= i %>" class="collapse" aria-labelledby="heading<%= i %>" data-parent="#accordionExample">
+          <div class="card-body">
+            <p class="abstract"><%= a.abstract %></p>
+          </div>
+        </div>
+      </div>
+    <% end %>
+  </div>
+</div>
