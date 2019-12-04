@@ -2,7 +2,7 @@
 //= require popper
 //= require bootstrap-sprockets
 
-var initialAnim = 1000
+var initialAnim = 0
 
 var headline = {
     distance: '20%',
@@ -28,9 +28,9 @@ var venue = {
 }
 
 var speaker = {
-  interval: 250,
+  interval: 150,
   opacity: 0,
-  duration: 350,
+  duration: 150,
   easing: 'ease-in'
 }
 
