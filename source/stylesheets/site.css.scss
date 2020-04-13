@@ -90,6 +90,10 @@ img.headshot {
   height: auto;
 }
 
+img.natgeotravel {
+  max-width: 120px;
+}
+
 img.two-line {
   @include media-breakpoint-up(xs) {
     width: 100%;
@@ -118,6 +122,12 @@ footer {
     }
   }
 }
+
+.container.mission {
+  max-width: 680px;
+}
+
+
 .abstracts {
   padding-top: 2em;
   max-width: 490px;
@@ -140,6 +150,15 @@ footer {
     text-indent: 1em;
   }
 }
+
 .btn-link, .btn-link:hover  {
   color: #333 !important; 
+}
+
+small.plenary {
+  background-color: #d60740;
+  border-radius: 3px;
+  padding: 5px;
+  color: #eee;
+  font-size: .5em;
 }
