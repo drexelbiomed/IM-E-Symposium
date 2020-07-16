@@ -1,9 +1,51 @@
+- full_name: "Ted Ross, PhD <br><small class='plenary'>Plenary Speaker</small>"
+  id: ted-ross
+  title: Director, GRA Eminent Scholar of Infectious Diseases, Professor
+  affiliation: University of Georgia
+  url: https://research.uga.edu/news/ted-ross-we-need-a-better-influenza-vaccine/
+  bio: 
+
+- full_name: "Darrell Irvine, PhD <br><small class='plenary'>Plenary Speaker</small>"
+  id: darrell-irvine
+  title: Professor of Materials Science & Engineering and Biological Engineering
+  affiliation: MIT
+  url: https://be.mit.edu/directory/darrell-j-irvine
+  bio: 
+
 - full_name: "Jennifer Ellisseeff, PhD <br><small class='plenary'>Plenary Speaker</small>"
   id: jennifer-ellisseeff
   title: Professor of Biomedical Engineering
   affiliation: Johns Hopkins University
   url: https://www.bme.jhu.edu/faculty_staff/jennifer-h-elisseeff-phd/
   bio: 
+
+- full_name: Melody Smith, MD
+  id: melody-smith
+  title: Assistant Attending Lv.1
+  affiliation: Memorial Sloan Kettering Cancer Center
+  url: https://www.mskcc.org/research/ski/labs/members/melody-smith
+  bio: 
+
+- full_name: Eric Appel, PhD
+  id: eric-appel
+  title: Assistant Professor of Material Science and Engineering
+  affiliation: Stanford University
+  url: https://mse.stanford.edu/people/eric-appel
+  bio: 
+
+- full_name: Chengcheng Jin, PhD
+  id: chengcheng-jin
+  title: Assistant Professor, Department of Cancer Biology
+  affiliation: University of Pennsylvania
+  url: https://www.med.upenn.edu/apps/faculty/index.php/g20001880/p9294560
+  bio: 
+
+- full_name: Michael Mitchell, PhD
+  id: michael-mitchell
+  title: Skirkanich Assistant Professor of Innovation Bioengineering (BE), 
+  affiliation: University of Pennsylvania
+  url: https://www.seas.upenn.edu/directory/profile.php?ID=247
+  bio:
 
 - full_name: Zhen Gu, PhD 
   id: zhen-gu
