@@ -43,9 +43,11 @@ body {
 
 .marketing-box {
   .card {
-    height: 240px;
-    display: table-cell;
-    vertical-align: middle;
+    @include media-breakpoint-up(sm) {
+      height: 240px;
+    }
+    // display: table-cell;  
+    // vertical-align: middle;
   }
 }
 
@@ -180,6 +182,7 @@ small.plenary {
     flex-direction: column;
     flex: 1 1 auto;
     height: 70vh;
+    min-height: 240px;
 
     iframe.flex {
       flex: 1 1 auto;  
