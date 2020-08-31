@@ -41,6 +41,16 @@ body {
   }
 }
 
+.marketing-box {
+  .card {
+    @include media-breakpoint-up(sm) {
+      height: 240px;
+    }
+    // display: table-cell;  
+    // vertical-align: middle;
+  }
+}
+
 @include media-breakpoint-up(xs) {
   iframe {
     width: 100%;
@@ -161,4 +171,24 @@ small.plenary {
   padding: 5px;
   color: #eee;
   font-size: .5em;
+}
+.modal-content {
+  flex: 1 1 auto;
+  .modal-body {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-grow: 1; 
+    flex-direction: column;
+    flex: 1 1 auto;
+    height: 70vh;
+    min-height: 240px;
+
+    iframe.flex {
+      flex: 1 1 auto;  
+      border: none; 
+      margin: 0; 
+      padding: 0; 
+    }
+  }
 }
