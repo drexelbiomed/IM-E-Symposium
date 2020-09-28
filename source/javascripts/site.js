@@ -34,11 +34,11 @@ var speaker = {
   easing: 'ease-in'
 }
 
-ScrollReveal().reveal('.headline', headline);
+// ScrollReveal().reveal('.headline', headline);
 // ScrollReveal().reveal('.headline', { duration: 2000 });
 ScrollReveal().reveal('.marketing-box', marketingBoxes);
-ScrollReveal().reveal('.venue', venue);
-ScrollReveal().reveal('.speaker', speaker);
+// ScrollReveal().reveal('.venue', venue);
+// ScrollReveal().reveal('.speaker', speaker);
 
 // var node = document.querySelector('#cake');
 // var nodeList = document.querySelectorAll('.cookies');
