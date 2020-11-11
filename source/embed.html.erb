@@ -1,0 +1,34 @@
+<div style="text-align: left; font-family: 'Rubik', 'Helvetica', 'Arial';">
+  <h1 id="top">Watch Poster Presentations</h1>
+  <div style="column-count: 2;">
+    <% data.video.each do |v| %>
+      <a id="link<%= v.number %>" href="#<%= v.number %>"><%= v.number %>. <%= v.name %></a> <br>
+    <% end %>
+  </div>
+  <br>
+  <a href="https://web.cvent.com/hub/events/9a301f5e-408e-48db-9f04-7afc4a1b57fa/exhibitors"><strong>⇨ Poster Booths</strong></a>
+
+  <hr style="margin: 3rem 0;">
+
+  <% data.video.each do |v| %>
+    <h2 id="<%= v.number %>"><%= v.number %>. <%= v.title %></h2>
+    <p><strong>By <%= v.name %></strong></p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/<%= v.code %>" frameborder="0" allowfullscreen></iframe>
+    <br>
+    <a id="toplink<%= v.number %>" href="#top">⇧ Back to top</a> | <a href="https://web.cvent.com/hub/events/9a301f5e-408e-48db-9f04-7afc4a1b57fa/exhibitors">⇨ Go to Poster Booths</a> <br>
+    <hr style="margin: 3rem 0;">
+  <% end %>
+</div>
+
+<script>
+  <% data.video.each do |v| %>
+    document.getElementById("link<%= v.number %>").addEventListener("click", function(event){
+      event.preventDefault();
+      window.location = (""+window.location).replace(/#[A-Za-z0-9_]*$/,'')+"#<%= v.number %>";
+    });
+    document.getElementById("toplink<%= v.number %>").addEventListener("click", function(event){
+      event.preventDefault();
+      window.location = (""+window.location).replace(/#[A-Za-z0-9_]*$/,'')+"#top";
+    });
+  <% end %>
+</script>

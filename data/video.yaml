@@ -1,0 +1,156 @@
+- number: 1
+  title: A Microfluidic Lymphatic Vessel on a Chip with Cyclic Fluidic Flow 
+  name: Parinaz Fathi
+  code: p0roPndfqjs
+- number: 2
+  title: Decoding Effector functions in Natural Killer Cells using a Droplet-Based Single-Cell Analysis Platform
+  name: Nikita Subedi
+  code: sRmlSJPPzw0
+# - number: 3
+#   title: De novo Design of Functional Zwitterionic Biomimetic Material for Immunomodulation
+#   name: Bowen Li
+#   code: 
+- number: 4
+  title: 'Modeling Type I IFN Response Dynamics: Dissecting the Role of First, Second, and Non-Responders using Droplet-Based Microfluidics'
+  name: Laura Van Eyndhoven
+  code: MM3lS5J7ZWw
+- number: 5
+  title: MOF Encapsulated CpG for Enhanced Immunoadjuvancy
+  name: Olivia Brohlin
+  code: XJb1xQzm1mo
+- number: 6
+  title: A Whole Cell Vaccine Inactivated by Metal Organic Framework Protects Against Septicemic UPEC Infections 
+  name: Michael Luzuriaga
+  code: 6C-pmPfJvHQ
+- number: 7
+  title: 'PhotoPhage: A Chemically Unified Approach to Photothermal and Immunotherapy to Treat Primary and Metastatic Cancer'
+  name: Arezoo Shahrivarkevishahi
+  code: dtCdFQXIGHk
+- number: 8
+  title: Antibody:CD47 ratio regulates macrophage phagocytosis through competitive receptor phosphorylation
+  name: Emily Suter
+  code: _H8CxNKs9dQ
+- number: 9
+  title: The Impact of Aging on Antiviral Pathways and Consequences for Immune Function
+  name: Jennifer Connors 
+  code: HB8l89Agt04
+- number: 10
+  title: An Antigen-Specific Microparticle System Shows Therapeutic Efficacy in a Mouse Model of Multiple Sclerosis
+  name: Alexander Kwiatkowski
+  code: IZwrHnGEKBw
+- number: 11
+  title: Molecular Engineering of Polymeric Materials for Cancer Immunotherapy
+  name: Wantong Song
+  code: oMetwvkzpCs
+- number: 12
+  title: Boosting Regulatory T-cell Induction with Immunoinstructive Cryogel Scaffolds
+  name: Loek Eggermont
+  code: 78NVTsC_Q8k
+- number: 13
+  title: 'Immune modulation in atherosclerosis: Investigating cholesterol crystals as potent drivers of metabolic reprogramming and M1 macrophage polarisation'
+  name: Sinead O'Rourke
+  code: Gwu-58APyqo
+- number: 14
+  title: Targeting and Reprogramming TAMs with Mannosylated, siRNA-Loaded Polymeric Nanoparticles to Induce Anti-Tumor Immunity
+  name: Evan Glass
+  code: rI6XLsPIfwA
+- number: 15
+  title: Mechanisms of Inflammation in Foamy Macrophage after Spinal Cord Injury
+  name: Christine Ryan
+  code: F9qm9DGo2Rc
+- number: 16
+  title: Anti-Inflammatory Hybrid Nanoscaffolds Enhance Treatment of Spinal Cord Injury
+  name: Susana R Cerqueira
+  code: Be03_-z6sUc
+- number: 17
+  title: Programming tumor-clearing macrophages with in situ gene therapy 
+  name: Fan Zhang
+  code: 7I1PDpvzZaE
+- number: 18
+  title: A hydrogel droplet-based microfluidics platform to probe macrophage polarization at the single-cell level
+  name: Bart Tiemeijer
+  code: pegexpnAU1U
+- number: 19
+  title: Microneedle-based multi-component vaccine delivery using polymer multilayers
+  name: Divakara SSM Uppu
+  code: YSI0GmF2gyY
+- number: 20
+  title: Modifying mineralized collagen scaffolds to modulate the macrophage polarization in craniomaxillofacial defects and enhance bone regeneration
+  name: Vasiliki Kolliopoulos
+  code: ptr3H9-jC1E
+- number: 21
+  title: Vitamin Lipid Nanoparticles Enable Adoptive Macrophage Transfer for the Treatment of Multidrug-Resistant Bacterial Sepsis
+  name: Xucheng Hou
+  code: gxig9K4kEQA
+- number: 22
+  title: Repolarizing Tumor-Associated Macrophages with Cytokine-Loaded Cryogels to Induce Anti-Tumor Immunity
+  name: Abigail Manning
+  code: H66Jhh8dE1w
+- number: 23
+  title: Carcinoma-Associated Mesenchymal Stem Cells Promote Chemoresistance in Ovarian Cancer Stem Cells via PDGF Signaling
+  name: Michael Bregenzer
+  code: b19fNGkXuhY
+- number: 24
+  title: Tolerogenic Artificial Antigen Presenting Cells (TolAPCs) for Type 1 Diabetes Treatment 
+  name: Stuart Bauer
+  code: -zeAN9lh8FQ
+- number: 25
+  title: Cyclic strain generated in magnetically actuated scaffolds enhances inflammatory characteristics in murine macrophages
+  name: Lindsay Steele
+  code: -HUFcx0R7-I
+- number: 26
+  title: Anti-PD-1 only prolongs survival in combination with intratumoral interleukin-12 and cryoablation in multiple bilateral murine models
+  name: Maura Vrabel
+  code: N-1I_ouMNjM
+- number: 27
+  title: The Effects of M1 Macrophage Activation on M1-to-M2 Phenotypic Switching
+  name: Erin O'Brien
+  code: mxl8pD6lZ4E
+- number: 28
+  title: The crosstalk between human primary macrophages and tissue-engineered blood-vessels
+  name: Beatriz Hernaez Estrada
+  code: AJqFKCAp2PE
+- number: 29
+  title: Inert Particles for Enhancing the Survival of Primary Macrophages
+  name: Bader Jarai
+  code: q5nf5FDIha4
+# - number: 30
+#   title: Gene Expression Analysis of Diabetic Foot Ulcer Debrided Tissue for Predicting Responsiveness to Treatment
+#   name: Jessica Eager
+#   code: 
+# - number: 31
+#   title: Microfluidic Model for Studying Macrophage Polarization in 3D culture
+#   name: Alperen Yilmaz
+#   code: 
+- number: 32
+  title: Changing Macrophage Phenotype for Increased Angiogenesis in Hindlimb Ischemia Model
+  name: Gregory Risser
+  code: Td1n64fuenw
+- number: 33
+  title: Solvent-free Drug Encapsulation for Zero-order Immunosuppressive Delivery from Three-Dimensional Devices
+  name: Chengqian Huang
+  code: xP4ceEZjsxo
+# - number: 34
+#   title: Exogenous Delivery of Indoleamine 2,3-Dioxygenase Reverses Disease Severity in a Preclinical Model of Psoriasis 
+#   name: Sabrina Macias
+#   code: 
+- number: 35
+  title: Adjuvant mediated changes in the extracellular space measured by diffusivity of lymph node tissue
+  name: Meg Catterton
+  code: OI8HDy6FSSs
+- number: 36
+  title: Developing methods to assess the exosome cross-talk between maternal and fetal cells in normal pregnancy and preeclampsia 
+  name: Hannah Fox
+  code: YKjbSaedk5Y
+- number: 37
+  title: Development of a Polymersome-Based Subunit Vaccine against SARS-CoV-2
+  name: Lisa Volpatti
+  code: YMq_fwBxaV8
+- number: 38
+  title: 'Cancer Immunotherapy: Inhibition of PD1-PDL1 Interaction via Small-Molecule Induced PDL1 Dimerization'
+  name: Elena Fattakhova
+  code: igAtZUOmXiI
+- number: ' '
+  title: ' '
+  name: ' '
+  code: ' '
