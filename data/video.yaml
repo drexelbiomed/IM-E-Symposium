@@ -114,14 +114,14 @@
   title: Inert Particles for Enhancing the Survival of Primary Macrophages
   name: Bader Jarai
   code: q5nf5FDIha4
-# - number: 30
-#   title: Gene Expression Analysis of Diabetic Foot Ulcer Debrided Tissue for Predicting Responsiveness to Treatment
-#   name: Jessica Eager
-#   code: 
-# - number: 31
-#   title: Microfluidic Model for Studying Macrophage Polarization in 3D culture
-#   name: Alperen Yilmaz
-#   code: 
+- number: 30
+  title: Gene Expression Analysis of Diabetic Foot Ulcer Debrided Tissue for Predicting Responsiveness to Treatment
+  name: Jessica Eager
+  code: AANIcEUvlyM
+- number: 31
+  title: Microfluidic Model for Studying Macrophage Polarization in 3D culture
+  name: Alperen Yilmaz
+  code: 3tMxHnzpKgc
 - number: 32
   title: Changing Macrophage Phenotype for Increased Angiogenesis in Hindlimb Ischemia Model
   name: Gregory Risser
@@ -130,10 +130,10 @@
   title: Solvent-free Drug Encapsulation for Zero-order Immunosuppressive Delivery from Three-Dimensional Devices
   name: Chengqian Huang
   code: xP4ceEZjsxo
-# - number: 34
-#   title: Exogenous Delivery of Indoleamine 2,3-Dioxygenase Reverses Disease Severity in a Preclinical Model of Psoriasis 
-#   name: Sabrina Macias
-#   code: 
+- number: 34
+  title: Exogenous Delivery of Indoleamine 2,3-Dioxygenase Reverses Disease Severity in a Preclinical Model of Psoriasis 
+  name: Sabrina Macias
+  code: 8Oi4BeXVVw4
 - number: 35
   title: Adjuvant mediated changes in the extracellular space measured by diffusivity of lymph node tissue
   name: Meg Catterton
@@ -150,7 +150,7 @@
   title: 'Cancer Immunotherapy: Inhibition of PD1-PDL1 Interaction via Small-Molecule Induced PDL1 Dimerization'
   name: Elena Fattakhova
   code: igAtZUOmXiI
-- number: ' '
-  title: ' '
-  name: ' '
-  code: ' '
+# - number: ' '
+#   title: ' '
+#   name: ' '
+#   code: ' '

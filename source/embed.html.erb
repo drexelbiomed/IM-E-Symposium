@@ -1,12 +1,16 @@
 <div style="text-align: left; font-family: 'Rubik', 'Helvetica', 'Arial';">
   <h1 id="top">Watch Poster Presentations</h1>
+  <p>Ask questions to a Poster Presenter at their booth at 4:00-5:30 PM on Wednesday or Thursday.</p>
+  <p><a href="https://web.cvent.com/hub/events/9a301f5e-408e-48db-9f04-7afc4a1b57fa/exhibitors"><strong>⇨ Poster Booths</strong></a></p><br>
+
   <div style="column-count: 2;">
     <% data.video.each do |v| %>
+      <%= v.number == 1 ? "<h3>Wednesday Nov. 11</h3>" : "" %>
+      <%= v.number == 20 ? "<h3>Thursday Nov. 12</h3>" : "" %>
       <a id="link<%= v.number %>" href="#<%= v.number %>"><%= v.number %>. <%= v.name %></a> <br>
     <% end %>
   </div>
   <br>
-  <a href="https://web.cvent.com/hub/events/9a301f5e-408e-48db-9f04-7afc4a1b57fa/exhibitors"><strong>⇨ Poster Booths</strong></a>
 
   <hr style="margin: 3rem 0;">
 
