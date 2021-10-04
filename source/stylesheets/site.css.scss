@@ -23,17 +23,17 @@ body {
       >img {
         @include media-breakpoint-up(xs) {
           width: auto;
-          height: 400px;
+          height: 480px;
         }
         @include media-breakpoint-up(md) {
           width: auto;
-          height: 400px;
+          height: 480px;
         }
         @include media-breakpoint-up(lg) {
           height: auto;
           width: 100%;
-          max-height: 425px;
-          max-width: 850px;
+          max-height: 480px;
+          max-width: 960px;
           margin: 0 auto;
         }
       }
