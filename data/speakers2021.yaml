@@ -33,6 +33,13 @@
   url: https://www.engr.washington.edu/facultyfinder/suzie-pun
   bio: 
 
+- full_name: Minglin Ma, PhD 
+  id: Minglin-Ma.png
+  title: Associate Professor
+  affiliation: Cornell University
+  url: https://bee.cals.cornell.edu/people/minglin-ma/
+  bio: 
+
 - full_name: Vladimir Muzykantov, PhD 
   id: Vladimir-Muzykantov.png
   title: Professor of Pharmacology
@@ -75,6 +82,13 @@
   url: https://selectabio.com/about-us/
   bio: 
 
+- full_name: Kandace Gollomp, MD 
+  id: Kandace-Gollomp.png
+  title: Physician
+  affiliation: Children’s Hospital of Philadelphia
+  url: https://www.chop.edu/doctors/gollomp-kandace
+  bio: 
+
 - full_name: Gregg Duncan, PhD 
   id: Gregg-Duncan.png
   title: Assistant Professor of Bioengineering
@@ -82,17 +96,17 @@
   url: https://bioe.umd.edu/clark/faculty/797/Gregg-Duncan
   bio: 
 
-- full_name: Peter Gaskill, PhD 
-  id: Peter-Gaskill.png
-  title: Assistant Professor of Pharmacology
-  affiliation: Drexel University
-  url: https://drexel.edu/medicine/faculty/profiles/peter-gaskill/
-  bio: 
-
 - full_name: Ebony Gary, PhD 
   id: Ebony-Gary.png
-  title: Postdoctoral Fellow 
+  title: Postdoctoral Fellow
   affiliation: Wistar Institute
+  url: https://www.linkedin.com/in/ebony-gary-2839a5141/
+  bio: 
+
+- full_name: Annaliesa Anderson, PhD
+  id: Annaliesa-Anderson.png
+  title: Postdoctoral Fellow 
+  affiliation: Pfizer Inc.
   url: https://wistar.org/featured-news/dr-ebony-gary-received-awards-american-association-immunologists-and-american-society
   bio: 
 
@@ -103,11 +117,18 @@
   url: https://aguado.eng.ucsd.edu/pi
   bio: 
 
-- full_name: John Bethea, PhD 
-  id: John-Bethea.png
-  title: Professor of Biology
+- full_name: James Moon, PhD
+  id: James-Moon.png
+  title: J. G. Searle Professor, Biomedical Engineering
+  affiliation: University of Michigan
+  url: https://bme.umich.edu/people/james-moon/
+  bio: 
+
+- full_name: Peter Gaskill, PhD 
+  id: Peter-Gaskill.png
+  title: Assistant Professor of Pharmacology
   affiliation: Drexel University
-  url: https://drexel.edu/coas/faculty-research/faculty-directory/John-Bethea/
+  url: https://drexel.edu/medicine/faculty/profiles/peter-gaskill/
   bio: 
 
 - full_name: De’Broski R. Herbert, PhD 
